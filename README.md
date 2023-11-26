@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Veluvijay from India , Full Stack web developer. Known technologies are MEAN stack (MongoDB, Express JS, Angular 8, Node JS).
+I'm Manivel Manoharan from India , Full Stack web developer. Known technologies are MEAN stack (MongoDB, Express JS, Angular 8, Node JS).
 I'm currently learning C++ with Data structures and Algorithms. I'm also working as a freelancer in web development. I'm developing my new skill at Content Creating and Digital Marketing. 
 
 Check out my [Instagram](https://www.instagram.com/pro__googler/)
